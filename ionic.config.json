@@ -1,0 +1,7 @@
+{
+  "name": "infinite-scroll-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
